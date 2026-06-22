@@ -987,10 +987,10 @@ a {
 .video-full-thumb video {
   width: 100%;
   height: 100%;
-  object-fit: cover;
+  /* object-fit: cover; */
 }
 .video-full-info {
-  padding: var(--space-5) var(--space-5) var(--space-6);
+  padding: 1em;
 }
 .video-full-number {
   font-family: var(--font-heading);
